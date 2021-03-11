@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Searching-book-application/static/css/main.c6206b6e.chunk.css",
+    "main.js": "/Searching-book-application/static/js/main.58904a67.chunk.js",
+    "main.js.map": "/Searching-book-application/static/js/main.58904a67.chunk.js.map",
+    "runtime-main.js": "/Searching-book-application/static/js/runtime-main.d6df3c54.js",
+    "runtime-main.js.map": "/Searching-book-application/static/js/runtime-main.d6df3c54.js.map",
+    "static/css/2.31461e4f.chunk.css": "/Searching-book-application/static/css/2.31461e4f.chunk.css",
+    "static/js/2.e5a73bf4.chunk.js": "/Searching-book-application/static/js/2.e5a73bf4.chunk.js",
+    "static/js/2.e5a73bf4.chunk.js.map": "/Searching-book-application/static/js/2.e5a73bf4.chunk.js.map",
+    "static/js/3.e1026b4a.chunk.js": "/Searching-book-application/static/js/3.e1026b4a.chunk.js",
+    "static/js/3.e1026b4a.chunk.js.map": "/Searching-book-application/static/js/3.e1026b4a.chunk.js.map",
+    "index.html": "/Searching-book-application/index.html",
+    "static/css/2.31461e4f.chunk.css.map": "/Searching-book-application/static/css/2.31461e4f.chunk.css.map",
+    "static/css/main.c6206b6e.chunk.css.map": "/Searching-book-application/static/css/main.c6206b6e.chunk.css.map",
+    "static/js/2.e5a73bf4.chunk.js.LICENSE.txt": "/Searching-book-application/static/js/2.e5a73bf4.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/Searching-book-application/static/media/book.3baa92ab.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d6df3c54.js",
+    "static/css/2.31461e4f.chunk.css",
+    "static/js/2.e5a73bf4.chunk.js",
+    "static/css/main.c6206b6e.chunk.css",
+    "static/js/main.58904a67.chunk.js"
+  ]
+}
