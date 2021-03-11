@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: bold;
+ background: url(./book.jpg);
+ background-repeat: no-repeat;
+ background-position: center;
+ background-size: cover;
+}
+
+button {
+  cursor: pointer;
+}
+

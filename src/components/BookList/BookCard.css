@@ -1,0 +1,19 @@
+
+
+
+.list {
+    padding: 100px 100px 100px 100px;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: baseline;
+    align-content: space-between;
+    
+   
+}
+
+.desc {
+    text-align: left;
+    font-size: 15px;
+    font-weight: lighter;
+}
